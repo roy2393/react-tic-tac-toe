@@ -1,0 +1,18 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.row {
+  float: left;
+}
+
+.cell {
+  border: 1px solid;
+  width: 50px;
+  height: 50px;
+}
+
+.selected {
+  background: green;
+}
